@@ -1,0 +1,13 @@
+Roles:
+    root
+    admin
+    analista
+
+Módulos:
+    Usuarios: Crud
+    Roles y permisos: Crud
+    Equipos: Crud
+    Informe de Uso: Reportes
+
+Base de Datos:
+    Usuarios: id,name,surname,email,password
